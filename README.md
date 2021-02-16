@@ -1,0 +1,2 @@
+# -frozenwastes-Rust-Map
+@here:frozenwastes:  CURRENT OXIDE VERSION: https://www.dropbox.com/s/1w4zaclr0ltbz4e/RustMaps.co.uk_Frozen_Wastes.V1.map?dl=1    :frozenwastes:   OXIDE PLUGIN: https://www.dropbox.com/s/cuqu5dmbqlz3t9d/Oxide.Ext.RustEdit.dll?dl=1 Extension needs to be extracted to "serverroot/RustDedicated_Data/Managed/"  CCTV IDs: 1. BRIDGE1 2. BRIDGE2 3. FROZENLAKE1 4. COLDSTORAGE 5. BANDITHANGER 6. ICESTABLES 7. CAMP2 8. CAMP2 9. DRONE1 10. DRONE2
